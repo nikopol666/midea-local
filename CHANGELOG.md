@@ -1,5 +1,19 @@
 # Changelog
 
+## [6.7.0](https://github.com/midea-lan/midea-local/compare/v6.6.2...v6.7.0) (2026-06-01)
+
+
+### Features
+
+* **a1:** add dehumidifier pump state and control ([#446](https://github.com/midea-lan/midea-local/issues/446)) ([91c3dde](https://github.com/midea-lan/midea-local/commit/91c3dde22f1c06bda808f413273ca9fff2c97f78)), closes [#445](https://github.com/midea-lan/midea-local/issues/445)
+* **ac:** add anion, sound, self_clean, pmv and error_code support ([#444](https://github.com/midea-lan/midea-local/issues/444)) ([e763077](https://github.com/midea-lan/midea-local/commit/e763077bec37afe158c3efb67c43accbf8e9a5c6))
+* **ac:** add out_silent (outdoor silent mode) support for PortaSplit ([#441](https://github.com/midea-lan/midea-local/issues/441)) ([9af1ad9](https://github.com/midea-lan/midea-local/commit/9af1ad99a0c22e34d29a268e1d4d57d25d844a2c))
+
+
+### Bug Fixes
+
+* skip failed to decrypt device message ([#431](https://github.com/midea-lan/midea-local/issues/431)) ([2f464d0](https://github.com/midea-lan/midea-local/commit/2f464d00c14fc57039b17df724ec2643901d8ba1))
+
 ## [6.6.2](https://github.com/midea-lan/midea-local/compare/v6.6.1...v6.6.2) (2026-05-23)
 
 
